@@ -1,2 +1,21 @@
 body{ background-color: salmon;
 }
+h1 {
+    color: #8b0000;
+    font-size: 60px;
+    text-align: center;
+  }
+  p {
+      text-align: center;
+  }
+  img,button {
+    display: block;
+    margin: 0 auto;
+  }
+  p {color: black;
+     font-size: 20px;}
+
+     button{
+         border-color: red;
+         background-color: saddlebrown;
+     }
