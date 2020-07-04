@@ -46,4 +46,10 @@ h1 {
       button {
         padding: 10px 15px;
         }
+        .med-red-border{
+          border-color:salmon;
+          border-width: 5px;
+          border-style: groove;
+          border-radius: 8px;
+        }
         
