@@ -8,13 +8,13 @@ h1 {
   p {
       text-align: center;
   }
-  p2,p3 {color:rgb(252, 199, 199);
+  p2 {color:rgb(252, 199, 199);
   font-size: 20px;
   font-style: initial;
   line-height: 0.5px;
   }
 
-  
+  h5 {color: salmon;}
   
 
   img,button {
